@@ -9,3 +9,5 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1
 Switch to a new branch 'dev'.
 Git diff.
+
+Creatint a new branch is quick and .
