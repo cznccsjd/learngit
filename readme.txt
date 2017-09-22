@@ -11,3 +11,5 @@ Switch to a new branch 'dev'.
 Git diff.
 
 Creatint a new branch is quick and .
+
+new line for git stash.
