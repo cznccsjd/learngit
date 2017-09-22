@@ -10,4 +10,10 @@ Creating a new branch is quick AND simple.
 Switch to a new branch 'dev'.
 Git diff.
 
+<<<<<<< HEAD
 This line is issues-101.
+=======
+Creatint a new branch is quick and .
+
+new line for git stash.
+>>>>>>> feature1
